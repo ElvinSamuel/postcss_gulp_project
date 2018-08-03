@@ -7,12 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Elvin M. Samuel <ElvinSamuel1@gmail.com>",
+  "homepage": "https://github.com/ElvinSamuel/postcss_gulp_project#readme",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^9.1.0",
     "gulp": "^3.9.1",
     "gulp-cli": "^2.0.1",
     "gulp-postcss": "^7.0.1",
+    "postcss-color-function": "^4.0.1",
+    "postcss-color-rgba-fallback": "^3.0.0",
     "postcss-cssnext": "^3.1.0",
     "postcss-short": "^4.1.0",
     "postcss-short-color": "^3.0.0"

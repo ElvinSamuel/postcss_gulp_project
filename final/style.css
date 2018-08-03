@@ -14,9 +14,15 @@ section {
 }
 
 .cssnext-link {
+    color: #0000ff;
     color: rgba(0, 0, 255, 0.9);
 }
 
 .cssnext-link:hover {
     color: rgb(51, 33, 0);
+}
+
+body {
+    background: #ffa500;
+    background: rgba(255, 165, 0, 0.9);
 }

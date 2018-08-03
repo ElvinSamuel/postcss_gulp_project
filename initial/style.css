@@ -17,3 +17,7 @@ section {
 .cssnext-link:hover {
     color: color(orange blackness(80%));
 }
+
+body {
+    background: color(orange a(90%));
+}
